@@ -1,0 +1,105 @@
+body{
+   margin: 0;
+   padding: 0;
+   background-color: #a661e5e6;
+   background: url("https://au.hudson.com/wp-content/cache/bb-plugin/cache/resume-examples-1024x731-landscape.png");
+}
+/* #resume-form{
+} */
+#resume-templete{
+   display: none;
+}
+.myimg{
+   border: 2px solid black;
+   border-radius: 50%;
+   width: 200px;
+   margin-top: 42px;
+   margin-left: -10px;
+   height: 200px;
+
+}
+.background{
+   color: white;
+   background-color: rgb(17, 18, 18);
+   
+}
+.background1{
+   background-color: white;
+}
+
+.education{
+   /* display: flex;
+   justify-content: center;
+   align-items: center; */
+   margin-left: 15px;
+   margin-top: -18px;
+}
+.background2{
+   background-color: aqua;
+   color: black;
+}
+.background3{
+   color: black;
+}
+#resume-templete{
+   margin-top: 4rem;
+}
+.form-group{
+   font-size: 20px;
+   font-weight: bold;
+}
+/* #skills{
+   color: black;
+   font-weight: 900;
+}*/
+#header{
+   font-size: 50px;
+   font-weight: bolder;
+}
+.header1{
+   /* font-size: 40px; */
+   font-weight: bolder;
+}
+.header2{
+   font-size: 25px;
+   font-weight: bolder;
+}
+/* #projects{
+   font-weight: bolder;
+   color: black;
+} */ 
+#wex{
+   display:flex ;
+   
+}
+#pad{
+   padding-left: 20px;
+}
+#edx{
+   display:flex ;
+   
+}
+#pad1{
+   padding-left: 20px;
+}
+#projectsx{
+   display:flex ;
+   
+}
+#pad2{
+   padding-left: 20px;
+}
+#skillsx{
+   display:flex ;
+   
+}
+#pad3{
+   padding-left: 20px;
+}
+#acx{
+   display:flex ;
+   
+}
+#pad4{
+   padding-left: 20px;
+}
